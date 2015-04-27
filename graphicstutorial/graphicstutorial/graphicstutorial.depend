@@ -1,0 +1,2404 @@
+# depslib dependency file v1.0
+1417052598 source:c:\users\rya2149575\desktop\codeblocks_projects\graphicstutorial\graphicstutorial\main.cpp
+	<iostream>
+	"MainGame.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1417049801 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\begin_code.h
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\close_code.h
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1417051889 c:\users\rya2149575\desktop\codeblocks_projects\graphicstutorial\graphicstutorial\include\maingame.h
+	<SDL2/SDL.h>
+	<GL/glew.h>
+
+1407804932 c:\users\rya2149575\desktop\codeblocks_projects\deps\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1417052975 source:c:\users\rya2149575\desktop\codeblocks_projects\graphicstutorial\graphicstutorial\src\maingame.cpp
+	<iostream>
+	"MainGame.h"
+
+1420029490 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\main.cpp
+	<iostream>
+	"MainGame.h"
+
+1421204936 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\maingame.h
+	<SDL/SDL.h>
+	<GL/glew.h>
+	<ryEngine/ryEngine.h>
+	<ryEngine/GLSLProgram.h>
+	<ryEngine/GLTexture.h>
+	<ryEngine/Sprite.h>
+	<ryEngine/Window.h>
+	<ryEngine/InputManager.h>
+	<ryEngine/Timing.h>
+	<ryEngine/SpriteBatch.h>
+	<ryEngine/Camera2D.h>
+	<vector>
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1417049801 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\begin_code.h
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\close_code.h
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1407766496 c:\users\ada lovelick\codeblocks_projects\deps\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1421274252 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\maingame.cpp
+	"MainGame.h"
+	<ryEngine/Errors.h>
+	<ryEngine/ResourceManager.h>
+	<iostream>
+	<string>
+
+1417829089 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\glslprogram.cpp
+	"GLSLProgram.h"
+	"Errors.h"
+	<fstream>
+	<vector>
+
+1417823379 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\glslprogram.h
+	<GL/glew.h>
+	<string>
+
+1417989168 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\sprite.cpp
+	"Sprite.h"
+	"Vertex.h"
+	"ResourceManager.h"
+	<cstddef>
+
+1417988719 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\sprite.h
+	<GL/glew.h>
+	"GLTexture.h"
+	<string>
+
+1417721587 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\errors.cpp
+	"Errors.h"
+	<iostream>
+	<SDL/SDL.h>
+
+1417207683 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\errors.h
+	<string>
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1416991554 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\begin_code.h
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\close_code.h
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\ada lovelick\codeblocks_projects\deps\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1417984671 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\vertex.h
+	<GL/glew.h>
+
+1417835493 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\iomanager.cpp
+	"IOManager.h"
+	<fstream>
+
+1417831917 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\iomanager.h
+	<fstream>
+	<string>
+	<vector>
+
+1417831402 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\picopng.cpp
+	"picoPNG.h"
+
+1417831402 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\picopng.h
+	<vector>
+	<cstddef>
+
+1417917559 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\imageloader.cpp
+	"ImageLoader.h"
+	"picoPNG.h"
+	"IOManager.h"
+	"Errors.h"
+
+1417905008 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\imageloader.h
+	"GLTexture.h"
+
+1417835544 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\gltexture.h
+	<GL/glew.h>
+	<string>
+
+1417988934 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\resourcemanager.cpp
+	"ResourceManager.h"
+
+1417989156 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\resourcemanager.h
+	"TextureCache.h"
+	<string>
+
+1417988719 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\texturecache.h
+	<map>
+	"GLTexture.h"
+
+1418007117 source:c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\src\texturecache.cpp
+	"TextureCache.h"
+	"ImageLoader.h"
+	<iostream>
+
+1417835544 c:\users\ada lovelick\codeblocks_projects\deps\include\bengine\gltexture.h
+	<GL/glew.h>
+	<string>
+
+1417988719 c:\users\ada lovelick\codeblocks_projects\deps\include\bengine\sprite.h
+	<GL/glew.h>
+	"GLTexture.h"
+	<string>
+
+1417207683 c:\users\ada lovelick\codeblocks_projects\deps\include\bengine\errors.h
+	<string>
+
+1417823379 c:\users\ada lovelick\codeblocks_projects\deps\include\bengine\glslprogram.h
+	<GL/glew.h>
+	<string>
+
+1417823379 c:\users\ada lovelick\codeblocks_projects\deps\include\rengine\glslprogram.h
+	<GL/glew.h>
+	<string>
+
+1417835544 c:\users\ada lovelick\codeblocks_projects\deps\include\rengine\gltexture.h
+	<GL/glew.h>
+	<string>
+
+1417988719 c:\users\ada lovelick\codeblocks_projects\deps\include\rengine\sprite.h
+	<GL/glew.h>
+	"GLTexture.h"
+	<string>
+
+1417207683 c:\users\ada lovelick\codeblocks_projects\deps\include\rengine\errors.h
+	<string>
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\glslprogram.h
+	<GL/glew.h>
+	<string>
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\gltexture.h
+	<GL/glew.h>
+	<string>
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\sprite.h
+	<GL/glew.h>
+	"GLTexture.h"
+	<string>
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\window.h
+	<SDL/SDL.h>
+	<GL/glew.h>
+	<string>
+	"Errors.h"
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\errors.h
+	<string>
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\ryengine.h
+
+1421271782 c:\users\ada lovelick\codeblocks_projects\ryengine\camera2d.h
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1420008294 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\precision.hpp
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1420008294 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\_swizzle.hpp
+
+1420008294 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\_swizzle_func.hpp
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec2.inl
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec3.inl
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec4_sse2.inl
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec4_avx.inl
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec4_avx2.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat2x2.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat2x3.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat2x4.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat3x2.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat3x3.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat3x4.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat4x2.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat4x3.inl
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_mat4x4.inl
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1420008294 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_vec1.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1420008293 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\type_half.inl
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1420008291 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1420008292 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1420008294 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1420008294 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1420008294 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\gtc\constants.inl
+	<limits>
+
+1420008294 c:\users\ada lovelick\codeblocks_projects\deps\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1420395618 c:\users\ada lovelick\codeblocks_projects\graphicstutorial\graphicstutorial\include\spritebatch.h
+
+1420618054 c:\users\ada lovelick\codeblocks_projects\ryengine\spritebatch.h
+	<vector>
+	<glm/glm.hpp>
+	<GL/glew.h>
+	"Vertex.h"
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\vertex.h
+	<GL/glew.h>
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\resourcemanager.h
+	"TextureCache.h"
+	<string>
+
+1418948459 c:\users\ada lovelick\codeblocks_projects\ryengine\texturecache.h
+	<map>
+	"GLTexture.h"
+
+1421257684 c:\users\ada lovelick\codeblocks_projects\ryengine\inputmanager.h
+	<unordered_map>
+	<glm/glm.hpp>
+
+1421193902 c:\users\ada lovelick\codeblocks_projects\ryengine\timing.h
+
+1420029490 source:c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\graphicstutorial\graphicstutorial\main.cpp
+	<iostream>
+	"MainGame.h"
+
+1429427715 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\graphicstutorial\graphicstutorial\include\maingame.h
+	<SDL/SDL.h>
+	<GL/glew.h>
+	<ryEngine/ryEngine.h>
+	<ryEngine/GLSLProgram.h>
+	<ryEngine/GLTexture.h>
+	<ryEngine/Sprite.h>
+	<ryEngine/Window.h>
+	<ryEngine/InputManager.h>
+	<ryEngine/Timing.h>
+	<ryEngine/SpriteBatch.h>
+	<ryEngine/Camera2D.h>
+	"Bullet.h"
+	<vector>
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1416991554 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\begin_code.h
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\close_code.h
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1407766496 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1429766876 source:c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\graphicstutorial\graphicstutorial\src\maingame.cpp
+	"MainGame.h"
+	<ryEngine/Errors.h>
+	<ryEngine/ResourceManager.h>
+	<iostream>
+	<string>
+
+1429649750 source:c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\graphicstutorial\graphicstutorial\src\bullet.cpp
+	"Bullet.h"
+	<ryEngine/ResourceManager.h>
+
+1429428210 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\graphicstutorial\graphicstutorial\include\bullet.h
+	<glm/glm.hpp>
+	<ryEngine/SpriteBatch.h>
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1420008294 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\precision.hpp
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1420008294 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\_swizzle.hpp
+
+1420008294 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\_swizzle_func.hpp
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec2.inl
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec3.inl
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec4_sse2.inl
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec4_avx.inl
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec4_avx2.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat2x2.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat2x3.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat2x4.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat3x2.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat3x3.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat3x4.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat4x2.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat4x3.inl
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_mat4x4.inl
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1420008294 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_vec1.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1420008293 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\type_half.inl
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1420008291 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1420008292 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1418948459 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\ryengine.h
+
+1418948459 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\glslprogram.h
+	<GL/glew.h>
+	<string>
+
+1418948459 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\gltexture.h
+	<GL/glew.h>
+	<string>
+
+1418948459 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\sprite.h
+	<GL/glew.h>
+	"GLTexture.h"
+	<string>
+
+1429733366 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\window.h
+	<SDL/SDL.h>
+	<GL/glew.h>
+	<string>
+	"Errors.h"
+
+1418948459 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\errors.h
+	<string>
+
+1421257684 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\inputmanager.h
+	<unordered_map>
+	<glm/glm.hpp>
+
+1421193902 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\timing.h
+
+1420618054 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\spritebatch.h
+	<vector>
+	<glm/glm.hpp>
+	<GL/glew.h>
+	"Vertex.h"
+
+1418948459 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\vertex.h
+	<GL/glew.h>
+
+1421271782 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\camera2d.h
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+
+1420008294 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1420008294 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1420008294 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\gtc\constants.inl
+	<limits>
+
+1420008294 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\deps\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1418948459 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\resourcemanager.h
+	"TextureCache.h"
+	<string>
+
+1418948459 c:\users\the programmer\desktop\mgb2015_ryengineandgraphicstutorial\ryengine\texturecache.h
+	<map>
+	"GLTexture.h"
+
