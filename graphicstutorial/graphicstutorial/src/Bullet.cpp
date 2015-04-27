@@ -17,6 +17,7 @@ Bullet::~Bullet()
 void Bullet::draw(ryEngine::SpriteBatch& spriteBatch)
 {
     glm::vec4 uv(0.0f, 0.0f, 1.0f, 1.0f);
+    // This needs to be looked at - bad static, BAAD (says Ben >.>)
     static ryEngine::GLTexture texture = ryEngine::ResourceManager::getTexture("Textures/KittyFace.png");
     ryEngine::Color color;
     color.r = 255;
