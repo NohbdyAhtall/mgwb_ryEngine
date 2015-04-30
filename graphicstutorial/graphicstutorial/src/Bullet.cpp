@@ -12,6 +12,7 @@ Bullet::Bullet(glm::vec2 pos, glm::vec2 dir, float speed, int lifeTime)
 
 Bullet::~Bullet()
 {
+    //Destructor
 }
 
 void Bullet::draw(ryEngine::SpriteBatch& spriteBatch)
